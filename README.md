@@ -1,11 +1,24 @@
 # estudo
 
-* git clone git@github.com:joaocordeiro777/estudo.git
+
+### git clone, para pegar os codigos do github para uma pasta no PC
+
+```
+
+git clone git@github.com:joaocordeiro777/estudo.git
+
+```
 
   * fazer alterações
 
-* git add .
+### Para enviar suas alterações para o github
 
-* git commit -m "explicação da alteração"
+```
 
-* git push origin main (ou nome da branch)
+git add .
+
+git commit -m "explicação da alteração"
+
+git push origin main (ou nome da branch)
+
+```
