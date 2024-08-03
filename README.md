@@ -5,7 +5,8 @@
 
 ```
 
-git clone git@github.com:joaocordeiro777/estudo.git
+ git clone https://github.com/joaocordeiro777/estudo.git
+
 
 ```
 
