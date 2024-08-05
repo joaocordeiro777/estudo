@@ -74,10 +74,12 @@ Projetos de Conclusão: Desenvolver um projeto final que incorpore todos os conc
 
 Principais Referências
 
-Documentação Oficial do HTML5: MDN Web Docs
+Documentação Oficial do HTML5: [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
-Curso de HTML: W3Schools
+Curso de HTML: [W3Schools](https://www.w3schools.com/html/html_basic.asp)
+
 Livro: "HTML & CSS: Design and Build Websites" de Jon Duckett.
+
 Vídeos: Cursos e tutoriais no YouTube, como os do canal "Curso em Vídeo" por Gustavo Guanabara.
 Comunidades: Participar de fóruns e comunidades online como Stack Overflow e Reddit para tirar dúvidas e trocar experiências.
 
