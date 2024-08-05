@@ -15,48 +15,48 @@ História do HTML: Breve história do desenvolvimento do HTML e suas versões.
 
 ### Estrutura Básica de um Documento HTML
 Tags e Elementos: Explicar a diferença entre tags e elementos.
-Estrutura básica: <html>, <head>, <body>.
-Doctype: <!DOCTYPE html>.
+Estrutura básica: '<html>', '<head>', '<body>'.
+Doctype: '<!DOCTYPE html>'.
 
 
 ### Tags Essenciais
-Cabeçalhos: <h1> a <h6>.
-Parágrafos: <p>.
-Links: <a>.
-Imagens: <img>.
-Listas: <ul>, <ol>, <li>.
+Cabeçalhos: '<h1>' a '<h6>'.
+Parágrafos: '<p>'.
+Links: '<a>'.
+Imagens: '<img>'.
+Listas: '<ul>', '<ol>', '<li>'.
 
 
 ### Atributos
 Atributos comuns: id, class, style.
-Atributos específicos: href em <a>, src em <img>.
+Atributos específicos: href em '<a>', src em '<img>'.
 
 
 ### Formatação de Texto
-Negrito: <b>, <strong>.
-Itálico: <i>, <em>.
-Quebras de linha: <br>.
-Citações: <blockquote>, <q>.
+Negrito: '<b>', '<strong>'.
+Itálico: '<i>', '<em>'.
+Quebras de linha: '<br>'.
+Citações: '<blockquote>', '<q>'.
 
 
 ### Estruturas de Conteúdo
-Divisões: <div>.
-Span: <span>.
-Seções: <header>, <footer>, <section>, <article>, <aside>, <nav>.
+Divisões: '<div>'.
+Span: '<span>'.
+Seções: '<header>', '<footer>', '<section>', '<article>', '<aside>', '<nav>'.
 
 
 ### Formulários
-Elementos de formulário: <form>, <input>, <textarea>, <button>, <select>, <option>.
+Elementos de formulário: '<form>', '<input>', '<textarea>', '<button>', '<select>', '<option>'.
 
 
 ### Tabelas
-Tags de tabelas: <table>, <tr>, <td>, <th>, <thead>, <tbody>, <tfoot>.
+Tags de tabelas: '<table>', '<tr>', '<td>', '<th>', '<thead>', '<tbody>', '<tfoot>'.
 
 
 ### Introdução ao CSS
-Estilo interno: <style>.
+Estilo interno: '<style>'.
 Estilo embutido: Atributo style em tags HTML.
-Link para CSS externo: <link>.
+Link para CSS externo: '<link>'.
 
 
 ### Boas Práticas
